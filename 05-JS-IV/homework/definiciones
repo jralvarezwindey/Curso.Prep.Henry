@@ -1,0 +1,15 @@
+Objetos: un objeto es una colección de propiedades.
+
+Propiedades: una propiedad es un par key/value. Es decir, un conjunto de datos (value) con un indicador (key) que los 
+referencia. El value puede ser un string, un booleano, un número, una función, etc.
+
+Métodos: un método es una función invocada desde un objeto.
+
+Bucles 'for ... in': un bucle 'foor... in' es un bucle que itera sobre las keys de un objeto dado.
+
+Notación de puntos: permite invocar propiedades de objetos cuyas keys empiecen con una letra. La sintáxis es:
+objeto.key
+
+Notación de corchetes: permite invocar propiedades de objetos con keys de cualquier tipo. La sintáxis es:
+objeto['key'] si key empieza con una letra y no es la palabra true o false
+objeto[key] si key es un número, una variable o los valores true o false

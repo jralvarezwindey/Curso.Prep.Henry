@@ -1,0 +1,18 @@
+Variables: una variable es un espacio reservado en el sistema de almacenamiento de la computadora donde podemos guardar
+información. Es posible acceder luego a tal información mediante un identificador propio de la variable.
+
+Strings: un string es un tipo de dato que consiste en un bloque de texto.
+
+Funciones: una función es un objeto invocable que ejecuta cierto código cuando al ser llamada. Se
+define con la sentencia 'function' y se le puede asignar argumentos. Los argumentos son variables que pueden ser
+utilizadas únicamente dentro del código que ejecuta la función. Sus valores son definidos desde afuera
+cuando se invoca la función.
+El comando 'return' permite a la función devolver información, es la única forma que tiene para hacerlo. La función se 
+detiene una vez que lee la declaración 'return'.
+
+Declaraciones if: la declaración if es una sentencia de control de flujo. Ejecuta cierto código si una condición
+(booleano) es verdadera, o lo ignora en caso de ser falsa.
+
+Valores booleanos: los booleanos son un tipo de dato que admite unicamente dos valores posibles. A veces, cuando 
+son empleados para evaluar expresiones lógicas tales valores son 'true' y 'false'.
+

@@ -1,0 +1,7 @@
+Bucle for: es una sentencia de flujo de control. Permite iterar un código mientras se cumpla una determinada condición.
+
+Operadores '&&', '||' y '!': son operadores booleanos. Los dos primeros actuan sobre dos operandos mientras que el tercero
+actua sobre uno solo. El operador '&&' ('AND') devuelve el valor 'true' cuando ambos operandos valen
+'true' (en caso contrario devuelve 'false'). El operador '||' ('OR') devuelve el valor 'true' cuando al menos uno de 
+los operandos valga 'true'. Finalmente, el operador '!' devuelve el valor opuesto al operando.
+

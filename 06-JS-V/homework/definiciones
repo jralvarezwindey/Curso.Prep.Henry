@@ -1,0 +1,4 @@
+Prototype: es una propiedad que tienen todas las clases. Es un objeto en el que se pueden guardar los métodos de la 
+clase para que puedan acceder a ellos las instancias de tal clase.
+
+Constructors: un constructor o clase es una 'plantilla' que permite crear múltiples objetos que compartan ciertos datos.
